@@ -93,6 +93,7 @@ The research building blocks:
 |---|---|
 | [Letta](https://github.com/letta-ai/letta) | Stateful agents with persistent memory — the memory layer organizational designs build on. |
 | [reef](https://github.com/Human-Agent-Society/reef) | Infrastructure for continually self-improving agents across sessions. |
+| [agent-qa](https://vostride.com) | QA workflow memory with run-linked provenance, evidence-gated promotion and human accept/reject/forget controls; its documented [knowledge lifecycle](https://github.com/vostride/agent-qa/blob/1b8a9daf46dd0ec1b2c4503d2f1c0e26b0002293/skills/agent-qa-knowledge/references/knowledge-reads.md) makes learned procedures reviewable (Principle 2). |
 | [ACE: Agentic Context Engineering](https://arxiv.org/abs/2510.04618) | Contexts that grow their own playbooks — the *hierarchical, on-demand* alternative to omniscient context. |
 | [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | Distilling successful trajectories into reusable organizational routines. |
 | [Memento](https://arxiv.org/abs/2508.16153) | Agents that improve from experience without touching weights — memory as the learning substrate. |
