@@ -92,6 +92,7 @@ AI-Native 转型正在与制造业历史押韵。重读它们，省得重新踩�
 |---|---|
 | [Letta](https://github.com/letta-ai/letta) | 有持久记忆的有状态智能体——组织设计所依赖的记忆层。 |
 | [reef](https://github.com/Human-Agent-Society/reef) | 跨会话持续自改进智能体的基础设施。 |
+| [agent-qa](https://vostride.com) | QA 工作流记忆保留运行来源、证据门控晋升与人工接受／拒绝／遗忘控制；其文档中的[知识生命周期](https://github.com/vostride/agent-qa/blob/1b8a9daf46dd0ec1b2c4503d2f1c0e26b0002293/skills/agent-qa-knowledge/references/knowledge-reads.md)使学习到的流程可审阅（原则二）。 |
 | [ACE: Agentic Context Engineering](https://arxiv.org/abs/2510.04618) | 会自我生长的上下文——全知上下文的替代方案：层级式、按需投喂。 |
 | [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | 把成功轨迹蒸馏为可复用的组织例程。 |
 | [Memento](https://arxiv.org/abs/2508.16153) | 不动权重、从经验中学习的智能体——记忆即学习基质。 |
