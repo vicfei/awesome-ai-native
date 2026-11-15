@@ -142,11 +142,14 @@ The sharpest unsolved problem in enterprise agents: **access paths are assembled
 
 ## Case Files
 
-First-hand enterprise practice records, thesis-aligned, fully sanitized.
+First-hand enterprise practice records, thesis-aligned. Real parameters and topology kept (owner-approved open disclosure); only company name and credentials excluded.
 
 | Case | What it demonstrates |
 |---|---|
 | [LLM inference serving governance on one 8xH20 node](docs/case-financial-gpu-cluster.md) | Cluster topology under hard constraints + root causes of six recurring config defects (missing probes, maxed-out memory util, contradictory parameter intents, semantic misconfiguration) — "service alive" ≠ "semantics correct"; config delivery needs an evidence chain. |
+
+
+> 📗 **Companion handbook**: [ai-native-handbook](https://github.com/vicfei/ai-native-handbook) — the how-to counterpart to this map (three volumes: infra / agent app dev / org), sharing the same foundational mental model.
 
 ## Open problems
 
