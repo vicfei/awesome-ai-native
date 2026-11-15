@@ -140,6 +140,14 @@ The sharpest unsolved problem in enterprise agents: **access paths are assembled
 | [E2B](https://github.com/e2b-dev/E2B) | Secure sandboxed execution environments for agent actions — isolation as infrastructure. |
 | [Cedar](https://github.com/cedar-policy/cedar) | Policy-as-code language (AWS) — the shape of runtime authorization layers agents will need. |
 
+## Case Files
+
+First-hand enterprise practice records, thesis-aligned, fully sanitized.
+
+| Case | What it demonstrates |
+|---|---|
+| [LLM inference serving governance on one 8xH20 node](docs/case-financial-gpu-cluster.md) | Cluster topology under hard constraints + root causes of six recurring config defects (missing probes, maxed-out memory util, contradictory parameter intents, semantic misconfiguration) — "service alive" ≠ "semantics correct"; config delivery needs an evidence chain. |
+
 ## Open problems
 
 The questions this list exists to track — none solved, all load-bearing:
