@@ -139,6 +139,7 @@ The sharpest unsolved problem in enterprise agents: **access paths are assembled
 | [MCP specification](https://github.com/modelcontextprotocol/modelcontextprotocol) | Includes the OAuth 2.1 authorization flows agents are standardizing on. |
 | [E2B](https://github.com/e2b-dev/E2B) | Secure sandboxed execution environments for agent actions — isolation as infrastructure. |
 | [Cedar](https://github.com/cedar-policy/cedar) | Policy-as-code language (AWS) — the shape of runtime authorization layers agents will need. |
+| [Piccolo](https://github.com/agentscope-ai/Piccolo) — Alibaba AgentScope | Decision models (4B/9B/27B, GGUF-local) that review every tool call before execution across four risk dimensions — operation impact, data destruction, sensitive-data exposure, privilege change — returning probabilities against fixed thresholds, human-approval fallback intact. Runtime authorization, productized as a small dedicated model. |
 
 ## Case Files
 

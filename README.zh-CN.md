@@ -138,6 +138,7 @@ AI-Native 转型正在与制造业历史押韵。重读它们，省得重新踩�
 | [MCP 规范](https://github.com/modelcontextprotocol/modelcontextprotocol) | 含 Agent 正在标准化的 OAuth 2.1 授权流。 |
 | [E2B](https://github.com/e2b-dev/E2B) | 面向 Agent 动作的安全沙盒执行环境——隔离即基础设施。 |
 | [Cedar](https://github.com/cedar-policy/cedar) | 策略即代码语言（AWS）——Agent 所需运行时授权层的形状。 |
+| [Piccolo](https://github.com/agentscope-ai/Piccolo) — 阿里 AgentScope | 决策模型家族（4B/9B/27B，GGUF 本地部署）：工具执行前按四个风险维度审查——操作影响、数据破坏、敏感信息暴露、权限变化——返回概率交固定阈值裁决，人工审批回退保留。运行时授权的专用小模型化落地。 |
 
 ## 案例档案（Case Files）
 
